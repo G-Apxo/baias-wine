@@ -10,7 +10,7 @@
                <div class="sc_columns_2 sc_columns_indent">
                   <div class="sc_columns_item">
                      <h3><a>Our Story</a></h3>
-                     <h5><a>OGeorgia: The Homeland of Wine</a></h5>
+                     <h5><a>Georgia: The Homeland of Wine</a></h5>
                      <div class="eventExcerpt">
                         <div class="sc_columns  sc_columns_indent">
                            <div class="sc_columns_item" style="width: 100%;">

@@ -9,12 +9,19 @@
 									<li><a class="social_icons" href="https://www.facebook.com/baiaswine" target="_blank"><img src="images/facebook.png" alt=""/></a></li>
 									<!-- <li><a class="social_icons" href="https://www.behance.net/themerex" target="_blank"><img src="images/behance.png" alt=""/></a></li> -->
 									<li><a class="social_icons" href="https://twitter.com/BaiasWine" target="_blank"><img src="images/twitter.png" alt=""/></a></li>
-									<!-- <li><a class="social_icons" href="http://goo.gl/flzxSj" target="_blank"><img src="images/gplus.png" alt=""/></a></li> -->
+									<li><a class="social_icons" href="https://www.instagram.com/baias_wine/" target="_blank"><img src="images/instagram-icon.jpg" alt=""/></a></li>
 								</ul>
 								<div class="copy_descr">BaiasWine © 2020. All Rights Reserved.</div>
 							</div>
 						</aside>
-					
+						<aside class="sc_columns_item widgetWrap widget_socials">
+							<h5 class=" title">ADDRESS</h5>
+							<div class="widget_inner">
+								<div class="logo_descr">Baia’s Wine 1000, Meore Obcha, Bagdati, Georgia</div>
+							</div>
+						</aside>
+						<div id="googleMap" style="width:50%;height:250px;"></div>
+
 					</div>
 				</div>
 			</footer>
@@ -112,3 +119,13 @@
 	<script type='text/javascript' src='js/vendor/jQuery/effect-slide.js'></script>
 	<script type='text/javascript' src='js/vendor/isotope.min.js'></script>
 	<script type='text/javascript' src='js/vendor/parallax.js'></script>
+	<script>
+		function myMap() {
+var mapProp= {
+  center:new google.maps.LatLng(51.508742,-0.120850),
+  zoom:5,
+};
+var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>

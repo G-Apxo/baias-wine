@@ -94,7 +94,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska-tsolakauri.png"></div>
+                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska.png"></div>
                </div>
             </div>
          </div>
@@ -148,7 +148,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska-tsolakauri.png"></div>
+                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsolakauri.png"></div>
                </div>
             </div>
          </div>
@@ -157,7 +157,7 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska-tsolakauri.png"></div>
+                  <div class="sc_columns_item"><img alt="" src="images/bottles/krakhuna.png"></div>
                   <div class="sc_columns_item">
                      <h4><a>KRAKHUNA</a></h4>
                      <div class="eventExcerpt">
@@ -212,7 +212,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/aladasturi.png"></div>
+                  <div class="sc_columns_item"><img alt="" src="images/bottles/otskhanuri-sapere.png"></div>
                </div>
             </div>
          </div>

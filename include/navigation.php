@@ -26,7 +26,7 @@
                </li>
                <li class="menu-item"><a href="shop.php">Media</a></li>
                <li class="menu-item ">
-                  <a href="#">Gallery</a>
+                  <a href="gallery.php">Gallery</a>
                </li>
                <li class="menu-item"><a href="contacts.php">Contacts</a></li>
             </ul>

@@ -11,27 +11,27 @@
                   <img src="images/transparent.png" alt="slide2" data-bgposition="center top" data-bgfit="normal" data-bgrepeat="no-repeat">
                   <div class="tp-caption sfb stt rs-parallaxlevel-0" data-x="50" data-y="73" data-speed="600" data-start="500" data-easing="Linear.easeNone" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
                      <div class="tp-layer-inner-rotation   rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <img src="images/krakhuna.png" alt="" data-ww="400" data-hh="400">
+                        <img src="images/bottles/tsitska.png" alt="" data-ww="400" data-hh="400">
                      </div>
                   </div>
                   <div class="tp-caption sfb stt rs-parallaxlevel-0" data-x="230" data-y="73" data-speed="600" data-start="1000" data-easing="Linear.easeNone" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
                      <div class="tp-layer-inner-rotation   rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <img src="images/aladasturi.png" alt="" data-ww="400" data-hh="400">
+                        <img src="images/bottles/aladasturi.png" alt="" data-ww="400" data-hh="400">
                      </div>
                   </div>
                   <div class="tp-caption sfb stt rs-parallaxlevel-0" data-x="430" data-y="75" data-speed="600" data-start="1500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
                      <div class="tp-layer-inner-rotation   rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <img src="images/krakhuna.png" alt="" data-ww="400" data-hh="400">
+                        <img src="images/bottles/tsolikauri.png" alt="" data-ww="400" data-hh="400">
                      </div>
                   </div>
                   <div class="tp-caption sfb stt rs-parallaxlevel-0" data-x="630" data-y="76" data-speed="600" data-start="2000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
                      <div class="tp-layer-inner-rotation   rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <img src="images/otskhanuri-sapere.png" alt="" data-ww="400" data-hh="400">
+                        <img src="images/bottles/otskhanuri-sapere.png" alt="" data-ww="400" data-hh="400">
                      </div>
                   </div>
                   <div class="tp-caption sfb stt rs-parallaxlevel-0" data-x="830" data-y="77" data-speed="600" data-start="2500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="600">
                      <div class="tp-layer-inner-rotation   rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <img src="images/krakhuna.png" alt="" data-ww="400" data-hh="400">
+                        <img src="images/bottles/krakhuna.png" alt="" data-ww="400" data-hh="400">
                      </div>
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 name" data-x="170" data-y="500" data-speed="300" data-start="2000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
@@ -243,7 +243,7 @@
                         </div>
                         <div class="eventMore"><a href="https://forum.cardano.org/t/cardano-foundation-develops-metadata-connector-for-scantrust-supply-chain-tracking/42741" class="sc_button sc_button_skin_dark sc_button_style_bg sc_button_size_big">Find out more</a></div>
                      </div>
-                     <div class="sc_columns_item"><img alt="" src="images/cardano.png"></div>
+                     <div class="sc_columns_item"><img alt="" src="images/cardano.png"style="width:50%"></div>
                   </div>
                </div>
             </div>
@@ -254,8 +254,8 @@
             <h4 class="sc_title sc_title_center custom_title_1">MEDIA</h4>
             
             <div class="sc_blogger sc_blogger_horizontal style_image style_image_large sc_blogger_indent">
-               <div class="sc_columns_4 sc_columns_indent">
-                  <div class="sc_columns_item">
+               <div class="sc_columns_6 sc_columns_indent">
+                  <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
                            <a href="single-post.php"><img alt="" src="images/assets/0828_forbes-logo_650x455.jpg"></a>
@@ -266,7 +266,7 @@
                         </div>
                      </article>
                   </div>
-                  <div class="sc_columns_item">
+                  <div class="sc_columns_item"style="margin-left: 7%;" >
                      <article class="sc_blogger_item">
                         <div class="thumb">
                            <a href="single-post.php"><img alt="" src="images/assets/amber-champion.png"></a>
@@ -277,7 +277,7 @@
                         </div>
                      </article>
                   </div>
-                  <div class="sc_columns_item">
+                  <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
                            <a href="single-post.php"><img alt="" src="images/assets/1200px-The_Logo_of_The_Washington_Post_Newspaper.svg.png"></a>
@@ -288,7 +288,7 @@
                         </div>
                      </article>
                   </div>
-                  <div class="sc_columns_item">
+                  <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
                            <a href="single-post.php"><img alt="" src="images/assets/food-and-wine-logo-vector.png"></a>
