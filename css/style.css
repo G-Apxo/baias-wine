@@ -6160,7 +6160,8 @@ a.tribe-events-gcal {
 .tp-caption.black,
 .black {
 	color: #000;
-	text-shadow: none
+	text-shadow: none;
+    margin-left: 15px !important;
 }
 
 .clear-both {

@@ -20,10 +20,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">What Romans Tought Us</h4>
 												<div class="isotopeExcerpt">The ancient Romans planted vineyards near garrison towns so wine...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -34,10 +34,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">White Bordeaux, in the Flesh</h4>
 												<div class="isotopeExcerpt">The grapes of White Bordeaux include Sauvignon Blanc, Semillon and...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -48,10 +48,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">The Two Faces of Prosecco</h4>
 												<div class="isotopeExcerpt">Prosecco is an Italian sparkling white wine, generally a dry or...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -68,10 +68,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">Wine From a Sacred Place</h4>
 												<div class="isotopeExcerpt">Viticulture has existed in the land of Israel since biblical...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -82,10 +82,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">Investments In Wine</h4>
 												<div class="isotopeExcerpt">Investment wine, like gold bullion, rare coins, fine art, and...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -96,10 +96,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">The Practice of Wine Tasting</h4>
 												<div class="isotopeExcerpt">Wine tasting (often, in wine circles, simply tasting) is the...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -110,10 +110,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">The Practice of Wine Tasting</h4>
 												<div class="isotopeExcerpt">Wine tasting (often, in wine circles, simply tasting) is the...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -124,10 +124,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">The Practice of Wine Tasting</h4>
 												<div class="isotopeExcerpt">Wine tasting (often, in wine circles, simply tasting) is the...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>
@@ -138,10 +138,10 @@
 										</div>
 										<div class="isotopeMore icon-down-open-big"></div>
 										<div class="isotopeContentWrap">
-											<div class="isotopeContent">
+											<!-- <div class="isotopeContent">
 												<h4 class="isotopeTitle">The Practice of Wine Tasting</h4>
 												<div class="isotopeExcerpt">Wine tasting (often, in wine circles, simply tasting) is the...</div>
-											</div>
+											</div> -->
 										</div>
 									</div>
 								</article>

@@ -4,7 +4,7 @@
 						<aside class="sc_columns_item widgetWrap widget_socials">
 							<h5 class=" title">Follow us</h5>
 							<div class="widget_inner">
-								<div class="logo_descr">Keep yourself posted about our work and our events by following us on social networks.</div>
+								<div class="logo_descr">Connect to our social media channels and dive deep into the magic of the wine making process.</div>
 								<ul class="social_style_images">
 									<li><a class="social_icons" href="https://www.facebook.com/baiaswine" target="_blank"><img src="images/facebook.png" alt=""/></a></li>
 									<!-- <li><a class="social_icons" href="https://www.behance.net/themerex" target="_blank"><img src="images/behance.png" alt=""/></a></li> -->

@@ -22,7 +22,7 @@
                                  Svaneti and Abkhazia are famous wine making places; legends and recorded
                                  history document centuries of continual wine making. Vessels discovered in the
                                  Anaklia region have proven Georgians were making wine in the Neolithic era
-                                 in a manner that would be familiar even today. .
+                                 in a manner that would be familiar even today.`
                               </div>
                               </br>
                               <div class="col-md-12 raleway small-font">

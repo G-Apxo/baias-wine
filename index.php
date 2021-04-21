@@ -119,47 +119,47 @@
    <div class=" content">
       <div class="masonryWrap">
          <section class="masonryStyle isotopeWrap portfolio_medium" data-foliosize="4">
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='single-post.php'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='#'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
                         <img src="images/baias-qvevry.png" alt="Favourite Place" style="height: 378px;">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">Favourite Place</h4>
                            <div class="isotopeExcerpt">Lovely relaxed atmosphere of the winery gives you a positive...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='single-post.php'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='#'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
                         <img src="images/gallery/baia-00033.jpg" alt="In Vino Veritas">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">In Vino Veritas</h4>
                            <div class="isotopeExcerpt">There’s no better feeling than uncorking a bottle of Chardonnay at...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='single-post.php'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='#'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
                         <img src="images/gallery/baia-00043.jpg" alt="Wine Essentials">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">Wine Essentials</h4>
                            <div class="isotopeExcerpt">We make wine with a thought of our customers, therefore the team...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -171,25 +171,25 @@
                         <img src="images/gallery/baia-00038.jpg" alt="Winemaking Is An Art">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">Winemaking Is An Art</h4>
                            <div class="isotopeExcerpt">There’s truth in wine, and there may be some in gin and muddy...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="900" data-hgt="450" data-incw="2" data-inch="1" onClick="document.location='single-post.php'">
+            <article class="isotopeItem" data-wdh="900" data-hgt="450" data-incw="2" data-inch="1" onClick="document.location='#'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
                         <img src="images/gallery/baia-00046.jpg" alt="Organic Grapes">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">Organic Grapes</h4>
                            <div class="isotopeExcerpt">Our wine is a combination of hard work of our wine makers and the...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -201,10 +201,10 @@
                         <img src="images/gallery/baia-00045.jpg" alt="Sustainable Farmed">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">Sustainable Farmed</h4>
                            <div class="isotopeExcerpt">We adhere to the winemaking principles for you to be our returning...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -216,10 +216,10 @@
                         <img src="images/gallery/baia-00012.jpg" alt="Fabulous Taste">
                      </div>
                      <div class="isotopeContentWrap">
-                        <div class="isotopeContent">
+                        <!-- <div class="isotopeContent">
                            <h4 class="isotopeTitle">Fabulous Taste</h4>
                            <div class="isotopeExcerpt">Wine House does its best to ensure that each of their clients gets...</div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
@@ -258,44 +258,44 @@
                   <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
-                           <a href="single-post.php"><img alt="" src="images/assets/0828_forbes-logo_650x455.jpg"></a>
+                           <a href="#"><img alt="" src="images/assets/0828_forbes-logo_650x455.jpg"></a>
                         </div>
-                        <h5 class="sc_blogger_title sc_title"><a href="single-post.php">Forbes</a></h5>
+                        <h5 class="sc_blogger_title sc_title"><a href="#">Meet The 25-Year-Old Georgian Winemaker Named To Forbes’ 2019 30 Under 30 Europe List</a></h5>
                         <div class="sc_blogger_content">
-                           <p>Meet The 25-Year-Old Georgian Winemaker Named To Forbes’ 2019 30 Under 30 Europe List</p>
+                           
                         </div>
                      </article>
                   </div>
                   <div class="sc_columns_item"style="margin-left: 7%;" >
                      <article class="sc_blogger_item">
                         <div class="thumb">
-                           <a href="single-post.php"><img alt="" src="images/assets/amber-champion.png"></a>
+                           <a href="#"><img alt="" src="images/assets/amber-champion.png"></a>
                         </div>
-                        <h5 class="sc_blogger_title sc_title"><a href="single-post.php">Amber Champion</a></h5>
+                        <h5 class="sc_blogger_title sc_title"><a href="images/Top-30-orange-wines.pdf">Simon J Woolf explaining the traditions behind the technique and recommending 30 of his favourite skin-contact discoveries</a></h5>
                         <div class="sc_blogger_content">
-                           <p>Simon J Woolf explaining the traditions behind the technique and recommending 30 of his favourite skin-contact discoveries</p>
+                        
                         </div>
                      </article>
                   </div>
                   <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
-                           <a href="single-post.php"><img alt="" src="images/assets/1200px-The_Logo_of_The_Washington_Post_Newspaper.svg.png"></a>
+                           <a href="#"><img alt="" src="images/assets/1200px-The_Logo_of_The_Washington_Post_Newspaper.svg.png"></a>
                         </div>
-                        <h5 class="sc_blogger_title sc_title"><a href="single-post.php">The Washington Post</a></h5>
+                        <h5 class="sc_blogger_title sc_title"><a href="#">5 wines to try when you’re in the mood to pour something different</a></h5>
                         <div class="sc_blogger_content">
-                           <p>5 wines to try when you’re in the mood to pour something different</p>
+                           
                         </div>
                      </article>
                   </div>
                   <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
-                           <a href="single-post.php"><img alt="" src="images/assets/food-and-wine-logo-vector.png"></a>
+                           <a href="#"><img alt="" src="images/assets/food-and-wine-logo-vector.png"></a>
                         </div>
-                        <h5 class="sc_blogger_title sc_title"><a href="single-post.php"> Food&Wine </a></h5>
+                        <h5 class="sc_blogger_title sc_title"><a href="#"> This 25-Year-Old Winemaker Is Making Some of Georgia’s Buzziest Wines </a></h5>
                         <div class="sc_blogger_content">
-                           <p>This 25-Year-Old Winemaker Is Making Some of Georgia’s Buzziest Wines</p>
+                           <p></p>
                         </div>
                      </article>
                   </div>
