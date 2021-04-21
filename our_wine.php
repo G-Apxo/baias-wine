@@ -8,12 +8,14 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska-tsolakauri.png"></div>
-                  <div class="sc_columns_item">
+                  <div class="sc_columns_item" style="width: 38%;">
+                  <img alt="" src="images/bottles/tsitska-tsolakauri.png">
+                  </div>
+                  <div class="sc_columns_item" style="width: 57%;">
                      <h4><a>TSITSKA-TSOLIKAURI-KRAKHUNA</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
-                           <div class="sc_columns_item">
+                           <div class="sc_columns_item" >
                               <div class="col-md-6 raleway small-font">
                                  <b>Producer:</b> Baia’s Wine <br>
                                  <b>Origin:</b> Georgia <br>
@@ -30,7 +32,7 @@
                                  <b>Awards:</b> No  
                               </div>
                            </div>
-                           <div class="sc_columns_item">
+                           <div class="sc_columns_item" >
                               <div class="col-md-6 mb-md-5 raleway small-font">
                                  <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
                                  <b>Grapes:</b> Tsitska 20%, Tsolikouri 60%, 
@@ -56,7 +58,7 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item">
+                  <div class="sc_columns_item" style="width: 57%;">
                      <h4><a>TSITSKA</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
@@ -94,7 +96,8 @@
                         </div>
                      </div>
                   </div>
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska.png"></div>
+                  <div class="sc_columns_item"style="width: 38%;">
+                  <img alt="" src="images/bottles/tsitska.png"></div>
                </div>
             </div>
          </div>
@@ -103,12 +106,12 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsitska-tsolakauri.png"></div>
+                  <div class="sc_columns_item" style="width: 38%;"><img alt="" src="images/bottles/tsitska-tsolakauri.png"></div>
                   <div class="sc_columns_item">
                      <h4><a>TSITSKA-TSOLIKOURI</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
-                           <div class="sc_columns_item">
+                           <div class="sc_columns_item" style="width: 57%;">
                               <div class="col-md-6  raleway small-font">
                                  <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
                                  <b>Grapes:</b> 30% Tsitska, 70% Tsolikouri   <br>
@@ -135,7 +138,7 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item">
+                  <div class="sc_columns_item" style="width: 57%;">
                      <h4><a>TSOLIKOURI</a></h4>
                      <div class="eventExcerpt">
                         <div class="col-md-6  raleway small-font">
@@ -148,7 +151,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/tsolakauri.png"></div>
+                  <div class="sc_columns_item"style="width: 38%;"><img alt="" src="images/bottles/tsolikauri.png"></div>
                </div>
             </div>
          </div>
@@ -157,12 +160,12 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/krakhuna.png"></div>
+                  <div class="sc_columns_item" style="width: 38%;"><img alt="" src="images/bottles/krakhuna.png"></div>
                   <div class="sc_columns_item">
                      <h4><a>KRAKHUNA</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
-                           <div class="sc_columns_item">
+                           <div class="sc_columns_item" style="width: 57%;">
                               <div class="col-md-6  raleway small-font">
                                  <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
                                  <b>Grapes:</b> Krakhuna <br>
@@ -193,7 +196,7 @@
                      <h4><a>OTSKHANURI SAPEREVI</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
-                           <div class="sc_columns_item">
+                           <div class="sc_columns_item" style="width: 57%;">
                               <div class="col-md-6  raleway small-font">
                                  <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
                                  <b>Grapes:</b> Krakhuna <br>
@@ -212,7 +215,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/otskhanuri-sapere.png"></div>
+                  <div class="sc_columns_item" style="width: 38%;"><img alt="" src="images/bottles/otskhanuri-sapere.png"></div>
                </div>
             </div>
          </div>
@@ -221,12 +224,12 @@
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
-                  <div class="sc_columns_item"><img alt="" src="images/bottles/aladasturi.png"></div>
+                  <div class="sc_columns_item" style="width: 38%;"><img alt="" src="images/bottles/aladasturi.png"></div>
                   <div class="sc_columns_item">
                      <h4><a>ALADASTURI</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
-                           <div class="sc_columns_item">
+                           <div class="sc_columns_item" style="width: 57%;">
                               <div class="col-md-6  raleway small-font">
                                  <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
                                  <b>Grapes:</b> Krakhuna <br>

@@ -227,7 +227,8 @@
          </section>
       </div>
       
-      <div class="sc_section sc_align_center blocks_5" style="background-image: url(images/wine-two.PNG);background-repeat: no-repeat;background-size: contain;"  >
+      <div id="cardano" class="sc_section sc_align_center blocks_5" style="background-image: url(images/wine-two.PNG);background-repeat: no-repeat;background-size: contain;"  >
+      
          <div class="sc_content mainWrap">
             <div class="sc_event">
                <div class="sc_event_item">
@@ -258,9 +259,13 @@
                   <div class="sc_columns_item" style="margin-left: 7%;">
                      <article class="sc_blogger_item">
                         <div class="thumb">
-                           <a href="#"><img alt="" src="images/assets/0828_forbes-logo_650x455.jpg"></a>
+                           <a href="#"><img alt="" src="images/assets/0828_forbes-logo_650x455.jpg" style="width: 76%;margin-left: 14%;"></a>
                         </div>
-                        <h5 class="sc_blogger_title sc_title"><a href="#">Meet The 25-Year-Old Georgian Winemaker Named To Forbes’ 2019 30 Under 30 Europe List</a></h5>
+                        <h6 class="sc_blogger_title sc_title"><a >Meet The 25-Year-Old Georgian Winemaker Named To Forbes’ 2019 30 Under 30 Europe List</a></h6>
+                        </br>
+                        <div class="copy-paste-block" style="text-align: center;">
+                       <a href="https://www.forbes.com/sites/chloesorvino/2019/02/12/meet-the-25-year-old-georgian-winemaker-named-to-forbes-2019-30-under-30-europe-list/?sh=7fc2fbdf3f53">Read more</a> 
+								</div>
                         <div class="sc_blogger_content">
                            
                         </div>
@@ -271,9 +276,11 @@
                         <div class="thumb">
                            <a href="#"><img alt="" src="images/assets/amber-champion.png"></a>
                         </div>
-                        <h5 class="sc_blogger_title sc_title"><a href="images/Top-30-orange-wines.pdf">Simon J Woolf explaining the traditions behind the technique and recommending 30 of his favourite skin-contact discoveries</a></h5>
+                        <h6 class="sc_blogger_title sc_title"><a >Simon J Woolf explaining the traditions behind the technique and recommending 30 of his favourite skin-contact discoveries</a></h6>
                         <div class="sc_blogger_content">
-                        
+                        <div class="copy-paste-block" style="text-align: center;">
+                       <a href="images/Top-30-orange-wines.pdf">Read more</a> 
+								</div>
                         </div>
                      </article>
                   </div>
@@ -284,7 +291,9 @@
                         </div>
                         <h5 class="sc_blogger_title sc_title"><a href="#">5 wines to try when you’re in the mood to pour something different</a></h5>
                         <div class="sc_blogger_content">
-                           
+                        <div class="copy-paste-block" style="text-align: center;">
+                       <a href="https://www.washingtonpost.com/lifestyle/food/5-wines-to-try-when-youre-in-the-mood-to-pour-something-different/2018/10/05/a63897a4-c805-11e8-b1ed-1d2d65b86d0c_story.html?arc404=true">Read more</a> 
+								</div>
                         </div>
                      </article>
                   </div>
@@ -295,7 +304,9 @@
                         </div>
                         <h5 class="sc_blogger_title sc_title"><a href="#"> This 25-Year-Old Winemaker Is Making Some of Georgia’s Buzziest Wines </a></h5>
                         <div class="sc_blogger_content">
-                           <p></p>
+                        <div class="copy-paste-block" style="text-align: center;">
+                       <a href="https://www.foodandwine.com/wine/baia-abuladze-georgian-wine">Read more</a> 
+								</div>
                         </div>
                      </article>
                   </div>
