@@ -260,23 +260,23 @@
       /* Backgorund Images */
       .slide:first-child {
       background: url('images/gallery/baia-00002.jpg') no-repeat
-      center top/cover;
+      center center/cover;
       }
       .slide:nth-child(2) {
       background: url('images/gallery/baia-00005.jpg') no-repeat
-      center top/cover;
+      center center/cover;
       }
       .slide:nth-child(3) {
-      background: url('images/gallery/baia-00007.jpg') no-repeat
-      center top/cover;
+      background: url('images/gallery/baia-00022.jpg') no-repeat
+      center center/cover;
       }
       .slide:nth-child(4) {
-      background: url('images/gallery/baia-00004.jpg') no-repeat
-      center top/cover;
+      background: url('images/gallery/baia-00027.jpg') no-repeat
+      center center/cover;
       }
       .slide:nth-child(5) {
-      background: url('images/gallery/baia-00005.jpg') no-repeat
-      center top/cover;
+      background: url('images/gallery/baia-00008.jpg') no-repeat
+      center center/cover;
       } 
       .slide:nth-child(6)  {
       background: url('images/gallery/baia-00006.jpg') no-repeat
