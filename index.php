@@ -36,7 +36,7 @@
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 name" data-x="170" data-y="500" data-speed="300" data-start="2000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
                      <div class="tp-layer-inner-rotation black  rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <span class="re_wine1">TSITSKA</span>
+                        <span class="re_wine1" style="margin-left: 15px;">TSITSKA</span>
                      </div>
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 price" data-x="170" data-y="540" data-speed="300" data-start="2100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
@@ -46,7 +46,7 @@
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 name" data-x="350" data-y="500" data-speed="300" data-start="2100" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
                      <div class="tp-layer-inner-rotation black  rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <span class="re_wine1">OTSKHANURI SAPERE</span>
+                        <span class="re_wine1" style="margin-left: 10px;">OTSKHANURI </br> SAPERE</span>
                      </div>
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 price" data-x="350" data-y="540" data-speed="300" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
@@ -56,7 +56,7 @@
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 name" data-x="550" data-y="500" data-speed="300" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
                      <div class="tp-layer-inner-rotation black  rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <span class="re_wine1">TSOLIKOURI</span>
+                        <span class="re_wine1" style="margin-left: 10px;">TSOLIKOURI</span>
                      </div>
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 price" data-x="550" data-y="545" data-speed="300" data-start="2300" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
@@ -66,7 +66,7 @@
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 name" data-x="750" data-y="500" data-speed="300" data-start="2300" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
                      <div class="tp-layer-inner-rotation black  rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <span class="re_wine1">ALADASTURI</span>
+                        <span class="re_wine1" style="margin-left: 10px;">ALADASTURI</span>
                      </div>
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 price" data-x="750" data-y="545" data-speed="300" data-start="2400" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
@@ -76,7 +76,7 @@
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 name" data-x="950" data-y="505" data-speed="300" data-start="2400" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
                      <div class="tp-layer-inner-rotation black  rs-slideloop" data-easing="Power3.easeInOut" data-speed="2" data-xs="0" data-xe="0" data-ys="0" data-ye="0">
-                        <span class="re_wine1">KRAKHUNA</span>
+                        <span class="re_wine1" style="margin-left: 15px; margin-top:-6px; padding-bottom:15px; position:absolute;">KRAKHUNA</span>
                      </div>
                   </div>
                   <div class="tp-caption black sfb stb tp-resizeme rs-parallaxlevel-0 price" data-x="950" data-y="545" data-speed="300" data-start="2500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
