@@ -28,7 +28,7 @@
                <li class="menu-item ">
                   <a href="gallery.php">Gallery</a>
                </li>
-               <li class="menu-item"><a href="contacts.php">Contacts</a></li>
+               <li class="menu-item"><a href="contacts.php">Contact</a></li>
             </ul>
          </div>
       </div>

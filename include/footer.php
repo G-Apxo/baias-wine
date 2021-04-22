@@ -11,7 +11,7 @@
 									<li><a class="social_icons" href="https://twitter.com/BaiasWine" target="_blank"><img src="images/twitter.png" alt=""/></a></li>
 									<li><a class="social_icons" href="https://www.instagram.com/baias_wine/" target="_blank"><img src="images/instagram-icon.jpg" alt=""/></a></li>
 								</ul>
-								<div class="copy_descr">BaiasWine © 2020. All Rights Reserved.</div>
+								<div class="copy_descr">© Baia'sWine 2021. All Rights Reserved.</div>
 							</div>
 						</aside>
 						<aside class="sc_columns_item widgetWrap widget_socials">

@@ -119,7 +119,7 @@
    <div class=" content">
       <div class="masonryWrap">
          <section class="masonryStyle isotopeWrap portfolio_medium" data-foliosize="4">
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='#'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
@@ -134,7 +134,7 @@
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='#'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
@@ -149,7 +149,7 @@
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='#'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
@@ -164,7 +164,7 @@
                   </div>
                </div>
             </article>
-            <article class="isotopeItem isfoll" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='shop.php'">
+            <article class="isotopeItem isfoll" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
@@ -179,7 +179,7 @@
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="900" data-hgt="450" data-incw="2" data-inch="1" onClick="document.location='#'">
+            <article class="isotopeItem" data-wdh="900" data-hgt="450" data-incw="2" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
@@ -194,7 +194,7 @@
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery-small.php'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">
@@ -209,7 +209,7 @@
                   </div>
                </div>
             </article>
-            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='booking.php'">
+            <article class="isotopeItem" data-wdh="450" data-hgt="450" data-incw="1" data-inch="1" onClick="document.location='gallery.php'">
                <div class="isotopeItemWrap">
                   <div class="isotopeItemWrap">
                      <div class="thumb">

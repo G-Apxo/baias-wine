@@ -12,7 +12,7 @@
                   <img alt="" src="images/bottles/tsitska-tsolakauri.png">
                   </div>
                   <div class="sc_columns_item" style="width: 57%;">
-                     <h4><a>TSITSKA-TSOLIKAURI-KRAKHUNA</a></h4>
+                     <h4><a>TSITSKA-TSOLIKOURI-KRAKHUNA</a></h4>
                      <div class="eventExcerpt">
                         <div class="sc_columns sc_columns_2 sc_columns_indent">
                            <div class="sc_columns_item" >
