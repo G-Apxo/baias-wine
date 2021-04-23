@@ -20,7 +20,7 @@
 								<div class="logo_descr">Baia’s Wine 1000, Meore Obcha, Bagdati, Georgia</div>
 							</div>
 						</aside>
-						<div id="googleMap" style="width:50%;height:250px;"></div>
+						<div id="Map" style="width:50%;height:250px;"></div>
 
 					</div>
 				</div>
@@ -120,12 +120,33 @@
 	<script type='text/javascript' src='js/vendor/isotope.min.js'></script>
 	<script type='text/javascript' src='js/vendor/parallax.js'></script>
 	<script>
-		function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(51.508742,-0.120850),
-  zoom:5,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+// Initialize and add the map
+function initMap() {
+  // The location of Tbilisi 41.71168174457733, 44.824088164708066
+  const Obcha = { lat: 41.9539781, lng: 43.3003899 };
+  // The map, centered at Tbilisi
+  const map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 13,
+    center: Obcha,
+  });
+  // The marker, positioned at Tbilisi
+  const marker = new google.maps.Marker({
+    position: Obcha,
+    map: map,
+  });
 }
+
+
+
+$(document).ready(function () {
+  $('.owl-next').css('left', $('.owl-stage-outer').width())
+  $(window).resize(function(){
+    $('.owl-next').css('left', $('.owl-stage-outer').width())
+
+  });
+});
 	</script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY&callback=myMap"></script>
+ <script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC3oSDEMKsJraY-0I83D3pEHNsey3AF3do&callback=initMap&libraries=&v=weekly"
+  defer
+></script>
