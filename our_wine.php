@@ -54,7 +54,7 @@
             </div>
          </div>
       </div>
-      <div class="sc_content mainWrap">
+      <div class="sc_content mainWrap responsive_hide">
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
@@ -102,6 +102,60 @@
             </div>
          </div>
       </div>
+             <!-- -------------------------Responsive card---------------------- -->
+             <div class="sc_content mainWrap responsive_show">
+               <div class="sc_event">
+                  <div class="sc_event_item">
+                  <div class="sc_columns_item"style="width: 38%;">
+                        <img alt="" src="images/bottles/tsitska.png">
+                        </div>
+                     <div class="sc_columns_2 sc_columns_indent">
+                        <div class="sc_columns_item" style="width: 57%;">
+                           <h4><a>TSITSKA</a></h4>
+                           <div class="eventExcerpt">
+                              <div class="sc_columns sc_columns_2 sc_columns_indent">
+                                 <div class="sc_columns_item">
+                                    <div class="col-md-6 raleway small-font">
+                                       <b>Producer:</b> Baia’s Wine <br>
+                                       <b>Origin:</b> Georgia <br>
+                                       <b>Region:</b> Imereti <br>
+                                       <b>Style:</b> Dry non-filtered <br>
+                                       <b>Maceration:</b> Full skin contact for one month, next
+                                       without skin contact in Qvevri for 6 month <br>
+                                       <b>Vintage:</b> 2019 <br>
+                                       <b>Alcohol Level:</b> 13.3% by vol. <br>
+                                       <b>Bottle Size:</b> 750ml <br>
+                                       <b>Serving Temperature:</b> 10-12C <br>
+                                       <b>Food Pairing:</b> Seafood, chicken, salads, cheese <br>
+                                       <b>Tasting Notes:</b> The aromas of persimmon, apricot 
+                                       and citrus create a full-bodied dry wine with a 
+                                       long and pleasant finish <br>
+                                       <b>Awards:</b> No <br>
+                                    </div>
+                                 </div>
+                                 <div class="col-md-6  raleway small-font">
+                                    <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
+                                    <b>Grapes:</b> 100% Tsitska                    <br>
+                                    <b>Fermentation:</b> Qvevri (Pitcher)<br>
+                                    <b>Maceration:</b> 15 days with skin<br>
+                                    <b>Yeast:</b> (Wild/Air?) Wild yeast<br>
+                                    <b>Sulfites:</b> (e.g. low?)  39 mg <br>
+                                    <b>Sugar:</b>  2.75<br>
+                                    <b>Filtration:</b> Unfiltered<br>
+                                    <b>Points of Distinction:</b> Made by women, 
+                                    Imeretian wine, Low Intervention
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+               <!-- -------------------------Responsive card---------------------- -->
+
       <div class="sc_content mainWrap">
          <div class="sc_event">
             <div class="sc_event_item">
@@ -134,7 +188,7 @@
             </div>
          </div>
       </div>
-      <div class="sc_content mainWrap">
+      <div class="sc_content mainWrap responsive_hide">
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
@@ -153,6 +207,28 @@
                   </div>
                   <div class="sc_columns_item"style="width: 38%;"><img alt="" src="images/bottles/tsolikauri.png"></div>
                </div>
+            </div>
+         </div>
+      </div>
+      <div class="sc_content mainWrap responsive_show">
+         <div class="sc_event">
+         <div class="sc_columns_item"style="width: 38%;"><img alt="" src="images/bottles/tsolikauri.png"></div>  
+            <div class="sc_event_item">
+               <div class="sc_columns_2 sc_columns_indent">
+                  <div class="sc_columns_item" style="width: 57%;">
+                     <h4><a>TSOLIKOURI</a></h4>
+                     <div class="eventExcerpt">
+                        <div class="col-md-6  raleway small-font">
+                           <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
+                           13% alcohol, Qvevri (Pitcher)  <br>
+                           <b>Testing Notes:</b>  Bright, crisp acidity, notes of green 
+                           apple and pear and a clean finish<br>
+                           <b>Food Pairing:</b> White fish, cheese, vegetables<br>
+                           <b class="">Points of Distinction:</b> Light, crisp<br>
+                        </div>
+                     </div>
+                  </div>
+                </div>
             </div>
          </div>
       </div>
@@ -188,7 +264,7 @@
             </div>
          </div>
       </div>
-      <div class="sc_content mainWrap">
+      <div class="sc_content mainWrap responsive_hide">
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
@@ -217,6 +293,39 @@
                   </div>
                   <div class="sc_columns_item" style="width: 38%;"><img alt="" src="images/bottles/otskhanuri-sapere.png"></div>
                </div>
+            </div>
+         </div>
+      </div>
+      <div class="sc_content mainWrap responsive_show">
+         <div class="sc_event">
+         <div class="sc_columns_item" style="width: 38%;"><img alt="" src="images/bottles/otskhanuri-sapere.png"></div>
+              
+            <div class="sc_event_item">
+               <div class="sc_columns_2 sc_columns_indent">
+                  <div class="sc_columns_item">
+                     <h4><a>OTSKHANURI SAPEREVI</a></h4>
+                     <div class="eventExcerpt">
+                        <div class="sc_columns sc_columns_2 sc_columns_indent">
+                           <div class="sc_columns_item" style="width: 57%;">
+                              <div class="col-md-6  raleway small-font">
+                                 <b class="dark-font">Wine Making &amp; Technical Details:</b> <br><br>
+                                 <b>Grapes:</b> Krakhuna <br>
+                                 <b>Fermentation:</b> Qvevri (Pitcher) <br>
+                                 <b>Maceration:</b>  3 months only 30% of Skins                                  <br>
+                                 <b>Yeast:</b> Wild/Airborne <br>
+                                 <b>Sulfites:</b> Very Low                                    <br>
+                                 <b>Filtration:</b> Unfiltered <br>
+                                 <b>Tasting Notes:</b> Aromas of persimmon, apricot and citrus, 
+                                 with honeycomb and sweet spice on the mid pallet with 
+                                 a long finish highlighted by moderate tannin
+                                 <br>
+                                 <b>Food Pairing:</b> Pork braised with apples, grilled meats <br>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                </div>
             </div>
          </div>
       </div>
