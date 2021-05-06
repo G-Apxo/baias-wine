@@ -6415,3 +6415,16 @@ a.tribe-events-gcal {
 .blocks_20 {
     max-width:100px;
 }
+
+.responsive_show{
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .responsive_hide{
+        display: none;
+    }
+    .responsive_show{
+        display: block;
+    }
+  }
