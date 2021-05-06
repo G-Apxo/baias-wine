@@ -22,7 +22,7 @@
                                  Svaneti and Abkhazia are famous wine making places; legends and recorded
                                  history document centuries of continual wine making. Vessels discovered in the
                                  Anaklia region have proven Georgians were making wine in the Neolithic era
-                                 in a manner that would be familiar even today.`
+                                 in a manner that would be familiar even today.
                               </div>
                               </br>
                               <div class="col-md-12 raleway small-font">
@@ -175,7 +175,7 @@
                               her younger sister Gvantsa travelled to Mosel, Germany,
                               as an intern to one of the best biodynamic wineries to
                               obtain knowledge and a deep dive into the magic
-                              process of making organic wine
+                              process of making organic wine.
                               </div>
                               </br>
                               <div class="col-md-12 raleway small-font">
@@ -187,7 +187,7 @@
                               transport. Amazingly, those bottles turned into a massive
                               success: restaurants and wine bars ordered more bottles immediately and customers gave great feedback. Soon afterwards,
                               the family business became part of the Georgian Farmers’ Association, which, in its turn, brought publicity in popular TV shows,
-                              as well as print media
+                              as well as print media.
                               </div>
                               </br>
                            </div>
@@ -208,14 +208,14 @@
                               washed the old family pitchers that had been long forgotten and were able to harvest enough grapes for about 8,000 bottles.
                               Business continued to grow. As the younger generation of the winemakers were more focused on innovative organic techniques,
                               the siblings decided they needed to expand their knowledge again in the agricultural field. Giorgi decided to study enology and
-                              Gvantsa was enrolled in the master of agronomy at Georgian Agricultural University
+                              Gvantsa was enrolled in the master of agronomy at Georgian Agricultural University.
                               </div>
                               </br>
                               <div class="col-md-12 raleway small-font">
                               A few years after starting with white wines, the trio offered red wine from Otskhanusi Sapere and Aladasturi grapes. Today,
                               they produce wines from Imeretian vine varieties such as Tsolikouri, Tsitska, Krakhuna, Aladasturi, Otskhanuri Sapere.
                               Each grape cluster is chosen carefully only from the Abuladze’s Obcha vineyards. The grape crushing, fermentation and aging
-                              is all done by the trio in the family cellar, to proudly offer the highest-quality organic Georgian wine to the world
+                              is all done by the trio in the family cellar, to proudly offer the highest-quality organic Georgian wine to the world.
                               </div>
                               </br>
                            </div>

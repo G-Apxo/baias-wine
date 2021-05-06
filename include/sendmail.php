@@ -3,16 +3,18 @@ global $_REQUEST;
 $response = array('error'=>'');
 $contact_email = 'gioapkhadze@gmail.com';
 
+var_dump($_REQUEST);
+
 // type
-$type = $_REQUEST['type'];	
+//$type = $_REQUEST['type'];	
 // parse
-parse_str($_POST['data'], $post_data);	
+//parse_str($_POST['data'], $post_data);	
 		
 
-		$user_name = stripslashes(strip_tags(trim($post_data['username'])));
-		$user_email = stripslashes(strip_tags(trim($post_data['email'])));
-		$user_subject = (array_key_exists('subject', $post_data) ? stripslashes(strip_tags(trim($post_data['subject']))) : '');
-		$user_msg = stripslashes(strip_tags(trim( $post_data['message'])));
+		$user_name = stripslashes(strip_tags(trim($_REQUEST['username'])));
+		$user_email = stripslashes(strip_tags(trim($_REQUEST['email'])));
+		$user_subject = (array_key_exists('subject', $_REQUEST) ? stripslashes(strip_tags(trim($_REQUEST['subject']))) : '');
+		$user_msg = stripslashes(strip_tags(trim( $_REQUEST['message'])));
 			
 		if (trim($contact_email)!='') {
 			$subj = 'Message from WineHouse';

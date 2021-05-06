@@ -15,7 +15,7 @@
                   
                </li>
                <li class="menu-item">
-                  <a href="#cardano">Cardano Blockchain</a>
+                  <a href="index.php#cardano">Cardano Blockchain</a>
                   
                </li>
               
@@ -24,7 +24,7 @@
             <li class="menu-item ">
                   <a href="our_wine.php">Our Wines</a>
                </li>
-               <li class="menu-item"><a href="shop.php">Media</a></li>
+               <li class="menu-item"><a href="index.php#media">Media</a></li>
                <li class="menu-item ">
                   <a href="gallery.php">Gallery</a>
                </li>

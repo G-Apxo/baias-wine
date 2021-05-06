@@ -8,7 +8,7 @@
 					<div class=" content">
 						<article class="postContent">
 							<div class="sc_section header_contact sc_align_center custom_nomar_B">
-								<h4 class="sc_title sc_title_center custom_title_7">CONTACTS</h4>
+								<h4 class="sc_title sc_title_center custom_title_7">CONTACT</h4>
 							</div>
 						<div class="sc_content mainWrap">
 								<div class="sc_section sc_align_center sc_columns_2_3">
@@ -23,8 +23,8 @@
 													<div class="sc_contact_info_item sc_contact_phone_1">
 														<h5 class="sc_contact_info_lable">Phone:</h5><b>+995 599 682 822</b>
 													</div>
-													<div class="sc_contact_info_item sc_contact_email">
-														<h5 class="sc_contact_info_lable">Email:<h5><b>baiaswine@gmail.com</b>
+													<div class="sc_contact_info_item sc_contact_email ">
+														<h5 class="sc_contact_info_lable">Email:<h5><b  style="color:#898989;">baiaswine@gmail.com</b>
 													</div>
 												</div>
 											</div>
@@ -40,7 +40,7 @@
 														</div>
 														<div class="sc_columns_item sc_form_email">
 															<label class="required" for="sc_form_contact_email">E-mail</label>
-															<input id="sc_form_contact_email" type="text" name="email">
+															<input id="sc_form_contact_email" type="email" name="email">
 														</div>
 														<div class="sc_columns_item sc_form_subj">
 															<label for="sc_form_contact_subj">Subject</label>
@@ -52,7 +52,7 @@
 														<textarea id="sc_form_contact_message" class="textAreaSize" name="message" style="overflow: hidden; overflow-wrap: break-word; resize: none; height: 84px;"></textarea>
 													</div>
 													<div class="sc_form_button">
-														<a href="#" class="sc_button  sc_button_skin_dark sc_button_style_bg sc_button_size_medium inited">Send Message</a>
+														<button  class="sc_button  sc_button_skin_dark sc_button_style_bg sc_button_size_medium inited" type="sumit">Send Message</button>
 													</div>
 													<div class="sc_result sc_infobox sc_infobox_closeable inited"></div>
 												</form>

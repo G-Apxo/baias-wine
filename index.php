@@ -234,25 +234,27 @@
                <div class="sc_event_item">
                   <div class="sc_columns_2 sc_columns_indent">
                      <div class="sc_columns_item">
-                        <h2><a >CARDANO BLOCKCHAIN</a></h2>
+                        <h3><a >CARDANO BLOCKCHAIN</a></h3>
                         <div class="eventExcerpt">
                            Baia’s Wine in collaboration with <a href="https://www.cardanofoundation.org/">Cardano Foundation</a> is preserving the 8,000 years history of the Georgian wine industry. Through the use of the Cardano blockchain, we are bringing unparalleled transparency to our supply chain to authenticate Baia’s Wine from farm to table.
                            Baia’s Wine supply chain is managed by the unique Cardano Blockchain system, enabling consumers to easily verify the wines authenticity: A full record of the supply chain data is stored on the Cardano blockchain, enabling to clearly track and record the supply chain activities for Baia’s wine from farm to table.
                            The Cardano Foundation is an independent Swiss not-for-profit organization that oversees and supervises the advancement of Cardano and its ecosystem. The Foundation’s core focus is in developing a Cardano adoption strategy through integration and execution, to enable fast-track value creation for inclusive and equitable growth. 
-						   As the custodian of the protocol and the owner of the Cardano brand, the Foundation works to drive adoption and partnerships, grow the wider blockchain community, shape legislation, and commercial standards, and ensure stakeholder accountability.
+						         As the custodian of the protocol and the owner of the Cardano brand, the Foundation works to drive adoption and partnerships, grow the wider blockchain community, shape legislation, and commercial standards, and ensure stakeholder accountability.
 						   </br>
                         </div>
                         <div class="eventMore"><a href="https://forum.cardano.org/t/cardano-foundation-develops-metadata-connector-for-scantrust-supply-chain-tracking/42741" class="sc_button sc_button_skin_dark sc_button_style_bg sc_button_size_big">Find out more</a></div>
                      </div>
-                     <div class="sc_columns_item"><img alt="" src="images/cardano.png"style="width:50%"></div>
+                     <div class="sc_columns_item" style="align-items: flex-end;justify-content: flex-end;display: flex;">
+                     <img alt="" src="images/cardano.png"style="width:50%">
+                     </div>
                   </div>
                </div>
             </div>
          </div>
       </div>
-      <div class="sc_section sc_align_center">
+      <div class="sc_section sc_align_center" id="meida">
          <div class="sc_content mainWrap custom_mar_3">
-            <h4 class="sc_title sc_title_center custom_title_1">MEDIA</h4>
+            <h4 class="sc_title sc_title_center custom_title_1" style="padding-bottom: 5%;margin-top: -4%;">MEDIA</h4>
             
             <div class="sc_blogger sc_blogger_horizontal style_image style_image_large sc_blogger_indent">
                <div class="sc_columns_6 sc_columns_indent">
