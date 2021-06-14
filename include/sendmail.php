@@ -1,6 +1,6 @@
 <?php 
 global $_REQUEST;
-$contact_email = 'baiaswine@gmail.com';
+$contact_email = 'gioapkhadze@gmail.com';
 
 var_dump($_REQUEST);
 
