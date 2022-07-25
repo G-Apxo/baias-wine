@@ -122,7 +122,7 @@
             </div>
          </div>
       </div>
-      <div class="sc_content mainWrap">
+      <!-- <div class="sc_content mainWrap">
          <div class="sc_event">
             <div class="sc_event_item">
                <div class="sc_columns_2 sc_columns_indent">
@@ -155,7 +155,7 @@
                </div>
             </div>
          </div>
-      </div>
+      </div> -->
       <div class="sc_content mainWrap">
          <div class="sc_event">
             <div class="sc_event_item">
