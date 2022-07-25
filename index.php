@@ -234,7 +234,10 @@
                            As the custodian of the protocol and the owner of the Cardano brand, the Foundation works to drive adoption and partnerships, grow the wider blockchain community, shape legislation, and commercial standards, and ensure stakeholder accountability.
                            </br>
                         </div>
-                        <div class="eventMore"><a href="https://forum.cardano.org/t/cardano-foundation-develops-metadata-connector-for-scantrust-supply-chain-tracking/42741" class="sc_button sc_button_skin_dark sc_button_style_bg sc_button_size_big">Find out more</a></div>
+                        <div class="eventMore"><a href="https://forum.cardano.org/t/cardano-foundation-develops-metadata-connector-for-scantrust-supply-chain-tracking/42741" class="sc_button sc_button_skin_dark sc_button_style_bg sc_button_size_big">Find out more</a>
+                        <a href="cardanopublickey.php" class="sc_button sc_button_skin_dark sc_button_style_bg sc_button_size_big">Cardano Public Key</a>
+                     </div>
+                       
                      </div>
                      <div class="sc_columns_item" style="align-items: flex-end;justify-content: flex-end;display: flex;">
                         <img alt="" src="images/cardano.png"style="width:50%">
